@@ -1,0 +1,15 @@
+C:\Users\Стефан\Desktop\PROEKTI 2023\PrintingHouse\PrintingHouse\bin\Debug\net6.0\PrintingHouse.exe
+C:\Users\Стефан\Desktop\PROEKTI 2023\PrintingHouse\PrintingHouse\bin\Debug\net6.0\PrintingHouse.deps.json
+C:\Users\Стефан\Desktop\PROEKTI 2023\PrintingHouse\PrintingHouse\bin\Debug\net6.0\PrintingHouse.runtimeconfig.json
+C:\Users\Стефан\Desktop\PROEKTI 2023\PrintingHouse\PrintingHouse\bin\Debug\net6.0\PrintingHouse.dll
+C:\Users\Стефан\Desktop\PROEKTI 2023\PrintingHouse\PrintingHouse\bin\Debug\net6.0\PrintingHouse.pdb
+C:\Users\Стефан\Desktop\PROEKTI 2023\PrintingHouse\PrintingHouse\obj\Debug\net6.0\PrintingHouse.csproj.AssemblyReference.cache
+C:\Users\Стефан\Desktop\PROEKTI 2023\PrintingHouse\PrintingHouse\obj\Debug\net6.0\PrintingHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Стефан\Desktop\PROEKTI 2023\PrintingHouse\PrintingHouse\obj\Debug\net6.0\PrintingHouse.AssemblyInfoInputs.cache
+C:\Users\Стефан\Desktop\PROEKTI 2023\PrintingHouse\PrintingHouse\obj\Debug\net6.0\PrintingHouse.AssemblyInfo.cs
+C:\Users\Стефан\Desktop\PROEKTI 2023\PrintingHouse\PrintingHouse\obj\Debug\net6.0\PrintingHouse.csproj.CoreCompileInputs.cache
+C:\Users\Стефан\Desktop\PROEKTI 2023\PrintingHouse\PrintingHouse\obj\Debug\net6.0\PrintingHouse.dll
+C:\Users\Стефан\Desktop\PROEKTI 2023\PrintingHouse\PrintingHouse\obj\Debug\net6.0\refint\PrintingHouse.dll
+C:\Users\Стефан\Desktop\PROEKTI 2023\PrintingHouse\PrintingHouse\obj\Debug\net6.0\PrintingHouse.pdb
+C:\Users\Стефан\Desktop\PROEKTI 2023\PrintingHouse\PrintingHouse\obj\Debug\net6.0\PrintingHouse.genruntimeconfig.cache
+C:\Users\Стефан\Desktop\PROEKTI 2023\PrintingHouse\PrintingHouse\obj\Debug\net6.0\ref\PrintingHouse.dll
